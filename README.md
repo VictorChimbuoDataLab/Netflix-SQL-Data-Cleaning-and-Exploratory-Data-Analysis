@@ -1,8 +1,7 @@
 # 🎬 Netflix Content Analysis with SQL
 
-> A complete SQL project involving data cleaning, validation, statistical analysis, and exploratory data analysis (EDA) on the Netflix Titles dataset.
+ A complete SQL project involving data cleaning, validation, statistical analysis, and exploratory data analysis (EDA) on the Netflix Titles dataset.
 
----
 
 ## 📌 Project Overview
 
