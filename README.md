@@ -120,10 +120,6 @@ Result:
 
 * ✅ No duplicate records found.
 
-📷 **Screenshot Placeholder**
-
-> *Add Screenshot: Duplicate Check Query Result*
-
 ---
 
 ### ✔ Text Standardization
