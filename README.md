@@ -161,10 +161,6 @@ Summary statistics were generated to understand the distribution of release year
 
 Netflix's catalog spans nearly a century but is heavily concentrated on modern content released after 2010.
 
-📷 **Catalouge Growth trend View**
-
-![Netflix Titles Catalouge Growth trend](Netflixtitles%20catalouge%20Growth%20trend.png)
-
 ---
 
 # 📈 Exploratory Data Analysis (EDA)
@@ -180,7 +176,7 @@ Movies account for approximately **70%** of Netflix's catalog.
 
 📷 **Content Type Distribution View**
 
-![Netflix Titles Content Type Distribution](Netflix_Titles%20Movies520vs%20TV%20show.png)
+![Netflix Titles Content Type Distribution](Netflix_Titles%20Movies%20vs%20TV%20show.png)
 
 ---
 
@@ -191,7 +187,7 @@ Netflix experienced rapid catalog expansion between **2016 and 2020**, with **20
 📷 **Content Add Over Time View**
 
 ![Netflix Titles Content Add Over Time](Netflix_Titles%20TV%20shows%20&%20Movies%20Year%20release%20Prt%201.png)
-![Netflix Titles Content Add Over Time](Netflix_Titles%20TV%20shows%20&%20Movies%20Year%20release%20Prt%202.png)
+![Netflix Titles Content Add Over Time](Netflix_Titles%20TV%20Shows%20&%20Movies%20Year%20release%20Prt%202.png)
 
 ---
 
@@ -239,8 +235,8 @@ Analysis showed:
 
 📷 **Content Release Trends View**
 
-![Netflix Titles Content Release Trend](Netflix_Titles%20Content%20Release%220trend%20prt%201.png)
-![Netflix Titles Content Release Trend](Netflix_Titles%20Content%20Release%220trend%20prt%202.png)
+![Netflix Titles Content Release Trend](Netflix_Titles%20Content%20Release%20trend%20prt%201.png)
+![Netflix Titles Content Release Trend](Netflix_Titles%20Content%20Release%20trend%20prt%202.png)
 
 ---
 
