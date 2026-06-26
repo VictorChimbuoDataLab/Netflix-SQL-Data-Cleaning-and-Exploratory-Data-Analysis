@@ -77,9 +77,9 @@ Initial exploration included:
 * Inspecting table structure
 * Reviewing column data types
 
-📷 **Screenshot Placeholder**
+📷 **NetFlix Titles Preview**
 
-> *Add Screenshot: Dataset Preview (TOP 20 Records)*
+![Netflix Titles Preview](Netflix_Tiles%20Preview.png)
 
 ---
 
@@ -92,10 +92,6 @@ Missing values were identified across key columns including:
 * Country
 * Rating
 * Date Added
-
-📷 **Screenshot Placeholder**
-
-> *Add Screenshot: Missing Values Assessment Queries*
 
 ---
 
@@ -110,9 +106,9 @@ Missing values in the following columns were replaced with **'Unknown'** to pres
 
 This ensured that records remained available for analysis while clearly identifying incomplete information.
 
-📷 **Screenshot Placeholder**
+📷 **Netflix Titles Null Values Replaced With Unknown**
 
-> *Add Screenshot: UPDATE Statements Executed*
+![Netflix Titles Null Values Replaced With Unknown](Netflix%20null%20update%20to%20unknown.png)
 
 ---
 
@@ -165,9 +161,9 @@ Summary statistics were generated to understand the distribution of release year
 
 Netflix's catalog spans nearly a century but is heavily concentrated on modern content released after 2010.
 
-📷 **Screenshot Placeholder**
+📷 **Catalouge Growth trend View**
 
-> *Add Screenshot: Statistical Analysis Output*
+![Netflix Titles Catalouge Growth trend](Netflixtitles%20catalouge%20Growth%20trend.png)
 
 ---
 
@@ -182,9 +178,9 @@ The cleaned dataset was analyzed to uncover trends and business insights.
 
 Movies account for approximately **70%** of Netflix's catalog.
 
-📷 **Screenshot Placeholder**
+📷 **Content Type Distribution View**
 
-> *Add Screenshot: Movies vs TV Shows Query Result*
+![Netflix Titles Content Type Distribution](Netflix_Titles%20Movies520vs%20TV%20show.png)
 
 ---
 
@@ -192,9 +188,10 @@ Movies account for approximately **70%** of Netflix's catalog.
 
 Netflix experienced rapid catalog expansion between **2016 and 2020**, with **2019 recording the highest number of new additions.**
 
-📷 **Screenshot Placeholder**
+📷 **Content Add Over Time View**
 
-> *Add Screenshot: Titles Added Per Year*
+![Netflix Titles Content Add Over Time](Netflix_Titles%20TV%20shows%20&%20Movies%20Year%20release%20Prt%201.png)
+![Netflix Titles Content Add Over Time](Netflix_Titles%20TV%20shows%20&%20Movies%20Year%20release%20Prt%202.png)
 
 ---
 
@@ -208,9 +205,9 @@ Top contributors include:
 * Japan
 * South Korea
 
-📷 **Screenshot Placeholder**
+📷 **Top Content-Producing Countries View**
 
-> *Add Screenshot: Top Countries Result*
+![Netflix Titles Top Content-Producing Countries](Netflix_titles%20Top%2010%20content%20producing%20Countries.png)
 
 ---
 
@@ -226,9 +223,9 @@ The most common audience ratings were:
 
 This indicates a strong focus on mature and teenage audiences.
 
-📷 **Screenshot Placeholder**
+📷 **Rating Distribution View**
 
-> *Add Screenshot: Rating Distribution*
+![Netflix Titles Rating Distribution](Netflix_Titles%20Rating%20distribution.png)
 
 ---
 
@@ -240,9 +237,10 @@ Analysis showed:
 * Rapid growth after 2010
 * Peak releases during 2018–2019
 
-📷 **Screenshot Placeholder**
+📷 **Content Release Trends View**
 
-> *Add Screenshot: Release Year Trend*
+![Netflix Titles Content Release Trend](Netflix_Titles%20Content%20Release%220trend%20prt%201.png)
+![Netflix Titles Content Release Trend](Netflix_Titles%20Content%20Release%220trend%20prt%202.png)
 
 ---
 
@@ -256,9 +254,9 @@ The most represented categories include:
 * International Dramas
 * Independent Movies
 
-📷 **Screenshot Placeholder**
+📷 **Most Common Genres View**
 
-> *Add Screenshot: Genre Distribution*
+![Netflix Titles Most Common Genres](Netflix_titles%20Most%20common%20Genre.png)
 
 ---
 
@@ -266,9 +264,9 @@ The most represented categories include:
 
 Several directors contributed multiple productions to Netflix's catalog, with Rajiv Chilaka leading the list.
 
-📷 **Screenshot Placeholder**
+📷 **Top Directors Top Director View**
 
-> *Add Screenshot: Top Directors Query*
+![Netflix Titles Top Directors](Netflix_titles%20Top%20Directors.png)
 
 ---
 
