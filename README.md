@@ -140,7 +140,9 @@ Additional validation included:
 * Reviewing date consistency
 * Identifying invalid ratings
 * Correcting duration values incorrectly stored in the Rating column
+📷 **Data Validation View**
 
+![Data Validation](Netflix_titles_Data_Validation.png)
 ---
 
 # 📊 Statistical Analysis
@@ -285,8 +287,8 @@ This project demonstrates practical SQL skills used in real-world analytics proj
 
 ## 👤 Author
 
-**Victor Chimbuo**
+**I. Victor Chimbuo**
 
-Aspiring Data Analyst | SQL | Power BI | Excel
+Data Analyst | SQL | Power BI | Excel
 
 If you found this project interesting, feel free to ⭐ the repository or connect with me on LinkedIn.
